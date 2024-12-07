@@ -29,6 +29,6 @@ def compute_similarity_score():
 	return sim_score
 
 if __name__ == '__main__':
-	# res = compute_total_distance()
-	res = compute_similarity_score()
+	res = compute_total_distance()
+	# res = compute_similarity_score()
 	print(f'Result: {res}')

@@ -103,6 +103,8 @@ def second_part():
 
 
 if __name__ == '__main__':
+	# obstacles, guard_pos, guard_dir = read_in()
+	# res = count_visits(obstacles, guard_pos, guard_dir)
 	res = second_part()
 	
 	print(f'Result: {res}')

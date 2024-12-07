@@ -54,6 +54,7 @@ def _is_safe_tolerate(report):
 
 def count_safe_reports():
 	reports = read_in()
+	# cnt = sum([int(_is_safe(report)) for report in reports])
 	cnt = sum([int(_is_safe_tolerate(report)) for report in reports])
 	return cnt
 

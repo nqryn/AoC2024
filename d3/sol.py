@@ -46,5 +46,6 @@ def compute_enabled_muls():
 	return total
 
 if __name__ == '__main__':
+	# res = compute_correct_muls()
 	res = compute_enabled_muls()
 	print(f'Result: {res}')

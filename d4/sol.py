@@ -2,7 +2,7 @@ import re
 
 def read_in():
 	matrix = []
-	with open('f_test.in') as f:
+	with open('f.in') as f:
 		for line in f:
 			matrix.append(line.strip())
 	return matrix
@@ -103,5 +103,6 @@ def count_x_mas():
 
 
 if __name__ == '__main__':
+	# res = count_xmas()
 	res = count_x_mas()
 	print(f'Result: {res}')

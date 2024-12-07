@@ -98,10 +98,8 @@ def compute_incorrect_orders_middle_page_sum():
 
 if __name__ == '__main__':
 	dep_graph, printing_orders = read_in()
-	# from pprint import pprint
-	# pprint(dep_graph)
-	# pprint(printing_orders)
 
+	# res = compute_correct_orders_middle_page_sum()
 	res = compute_incorrect_orders_middle_page_sum()
 	
 	print(f'Result: {res}')
