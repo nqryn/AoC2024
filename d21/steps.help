@@ -1,0 +1,40 @@
+Step 1: 
+^^A<<^AvvA>>vA 14
+
+U/D = 3 => 6
+L/R = 2 => 4
+A = 4
+
+Step 2:
+<AA>Av<<AA>^A>A<vAA^>AvAA<A^>A 30
+
+U/D = 3 => 6
+L/R = 5 => 10
+A = 14
+
+Step 3:
+v<<A>>^AAvA^A<vA<AA>>^AAvA^<A>AvA^Av<<A>A^>AA<Av>A^A<vA^>AAv<<A>>^A<Av>A^A 74
+
+U/D = 10 => 20
+L/R = 12 => 24
+A = 30
+
+Step 4:
+<vA<AA>>^AvAA^<A>AA<vA^>A<A>Av<<A>A^>Av<<A>>^AAvAA^<A>AA<vA^>A<Av<A>>^AvA^A<vA^>A<A>A<vA<AA>>^AvA^A<Av>A^AAv<<A>>^A<vA>A^A<A>Av<<A>A^>A<Av>A^AA<vA<AA>>^AvAA^<A>Av<<A>>^A<vA>A^A<A>A 180
+
+U/D = 21
+L/R = 32
+A = 74
+
+
+Step 5:
+U/D = 57
+L/R = 79
+A = 180
+
+
+
+
+U/D 6 =>  6 => 20 => 42 => 114 =>
+L/R 4 => 10 => 24 => 64 => 158 =>
+A   4 => 14 => 30 => 74 => 180 => 
